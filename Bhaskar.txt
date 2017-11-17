@@ -1,4 +1,8 @@
 change 1 - master branch
 
+<<<<<<< HEAD
 
 change 3 - master branch
+=======
+change 2 - bugfix branch
+>>>>>>> bugfix
